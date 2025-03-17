@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gimbal_tests.dir/tests.cpp.o -o gimbal_tests  libgimbal.a /usr/local/lib/libspdlog.a libserial.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

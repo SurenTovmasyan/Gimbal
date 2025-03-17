@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgimbal.a CMakeFiles/gimbal.dir/src/gimbal.cpp.o CMakeFiles/gimbal.dir/src/simplebgc.cpp.o
+/usr/bin/ranlib libgimbal.a
